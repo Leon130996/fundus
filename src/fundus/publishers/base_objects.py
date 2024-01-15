@@ -78,7 +78,7 @@ class PublisherEnum(Enum):
         if not attributes:
             attributes = []
         matched = []
-        unique_attributes = set(attributes)
+        unique_attributes = set(attributes) if len(attributes) > 0 else attributes
         spec: PublisherEnum
         for spec in list(cls):
             if unique_attributes.issubset(spec.parser().attributes().names) and (
