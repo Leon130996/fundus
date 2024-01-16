@@ -10,19 +10,11 @@
 Developed at <a href="https://www.informatik.hu-berlin.de/en/forschung-en/gebiete/ml-en/">Humboldt University of Berlin</a>.
 </p>
 <p align="center">
-  <a href="https://badge.fury.io/py/fundus">
-    <img alt="PyPI version" src="https://badge.fury.io/py/fundus.svg">
-  </a>
-  <a href="https://devdocs.io/python~3.8/">
-    <img alt="Python" src="https://img.shields.io/badge/python-3.8-blue">
-  </a>
-  <a href="https://opensource.org/license/mit/">
-    <img alt="License" src="https://img.shields.io/badge/License-MIT-brightgreen.svg">
-  </a>
-  <a href="https://github.com/flairNLP/fundus/blob/master/docs/how_to_contribute.md">
-    <img alt="Contributions" src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg">
-  </a>
-<img alt="Publisher Coverage" src="https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/dobbersc/ca0ae056b05cbfeaf30fa42f84ddf458/raw/fundus_publisher_coverage.json">
+  <a href="https://badge.fury.io/py/fundus"><img alt="PyPI version" src="https://badge.fury.io/py/fundus.svg"></a>
+  <a href="https://devdocs.io/python~3.8/"><img alt="Python" src="https://img.shields.io/badge/python-3.8-blue"></a>
+  <a href="https://opensource.org/license/mit/"><img alt="License" src="https://img.shields.io/badge/License-MIT-brightgreen.svg"></a>
+  <a href="https://github.com/flairNLP/fundus/blob/master/docs/how_to_contribute.md"><img alt="Contributions" src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg"></a>
+  <img alt="Publisher Coverage" src="https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/dobbersc/ca0ae056b05cbfeaf30fa42f84ddf458/raw/fundus_publisher_coverage.json">
 </p>
 <div align="center">
 <hr>
