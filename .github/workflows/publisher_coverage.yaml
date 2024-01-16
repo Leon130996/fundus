@@ -82,6 +82,7 @@ jobs:
   update_badge_json:
     runs-on: ubuntu-latest
     needs: create_badge
+    if: success() || failure()
 
     steps:
       - name: Read gist
