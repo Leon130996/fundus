@@ -24,9 +24,9 @@ def add_html_to_repo(path: Path, html: str) -> None:
 
 
 def add_article_to_ground_truth(key: str, new_article: Article) -> None:
-    assert new_article.body
+
     entry = {
-        "body": list(new_article.body.as_text_sequence()),
+        "body": list(new_article.body.as_text_sequence()) if new_article.body else [],
         "url": new_article.html.responded_url,
         "crawl_date": str(new_article.html.crawl_date),
     }
@@ -120,7 +120,7 @@ if __name__ == "__main__":
         scraper = Scraper(source, parser=publisher.parser)
         crawler = BaseCrawler(scraper)
 
-        if (next_article := next(crawler.crawl(), None)) is None:
+        if (next_article := next(crawler.crawl(only_complete=False), None)) is None:
             raise ValueError("Could not crawl the specified article")
 
         file_name = create_file_name(args.id)
