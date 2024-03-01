@@ -112,7 +112,7 @@ if __name__ == "__main__":
     if args.sub_mode == "add":
         crawler = Crawler(publisher)
 
-        for idx, article in enumerate(crawler.crawl(max_articles=args.number_of_articles)):
+        for idx, article in enumerate(crawler.crawl(only_complete=False, max_articles=args.number_of_articles)):
             tasks.append(Task(create_file_name(idx), article))
 
     elif args.sub_mode == "replace":
