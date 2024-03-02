@@ -1208,6 +1208,41 @@
         "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-rally-greensboro-richmond-documents-trial-live-b2505918.html",
         "crawl_date": "2024-03-02 23:30:08.879346"
     },
+    "TheIntercept_0.html.gz": {
+        "body": [
+            "Several veterinary staff recently quit the notorious oceanarium in protest of an environment they say is unfit for animal care."
+        ],
+        "url": "https://theintercept.com/2024/03/02/miami-seaquarium-animal-cruelty/",
+        "crawl_date": "2024-03-02 23:54:15.773549"
+    },
+    "TheIntercept_1.html.gz": {
+        "body": [
+            "The president has prioritized military spending over helping American families cover the rising costs of child care."
+        ],
+        "url": "https://theintercept.com/2024/03/01/biden-israel-gaza-weapons-child-care/",
+        "crawl_date": "2024-03-02 23:54:15.854777"
+    },
+    "TheIntercept_2.html.gz": {
+        "body": [
+            "Christiane Amanpour expressed “real distress” over Israel stories being changed, while other staffers described a climate that is hostile to Arab journalists."
+        ],
+        "url": "https://theintercept.com/2024/03/01/cnn-christiane-amanpour-israel-gaza-coverage/",
+        "crawl_date": "2024-03-02 23:54:15.962602"
+    },
+    "TheIntercept_3.html.gz": {
+        "body": [
+            "Ryan Grim speaks to Stuart Reid about his new book, “The Lumumba Plot: The Secret History Of The Cia And A Cold War Assassination.”"
+        ],
+        "url": "https://theintercept.com/2024/03/01/deconstructed-patrice-lumumba-cia-cold-war/",
+        "crawl_date": "2024-03-02 23:54:16.060111"
+    },
+    "TheIntercept_4.html.gz": {
+        "body": [
+            "“Screams Without Words,” the New York Times story about sexual violence by Jeffrey Gettleman, Adam Sella, and Anat Schwartz comes under fire."
+        ],
+        "url": "https://theintercept.com/2024/02/28/new-york-times-anat-schwartz-october-7/",
+        "crawl_date": "2024-03-02 23:54:16.183280"
+    },
     "TheNation_0.html.gz": {
         "body": [
             "[He stole Supreme Court seats, thwarted accountability for Donald Trump, and left a trail of partisan destruction in his wake.]",
