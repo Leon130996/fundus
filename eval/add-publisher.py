@@ -24,7 +24,6 @@ def add_html_to_repo(path: Path, html: str) -> None:
 
 
 def add_article_to_ground_truth(key: str, new_article: Article) -> None:
-
     entry = {
         "body": list(new_article.body.as_text_sequence()) if new_article.body else [],
         "url": new_article.html.responded_url,
