@@ -1,5 +1,5 @@
 {
-  "APNews_0.html.gz": {
+    "APNews_0.html.gz": {
         "body": [
             "CLAIM: Israel’s Mossad intelligence agency called the U.S. Air Force an “enemy” of Israel in a post on X after an active-duty member of the military branch set himself on fire outside the Israeli Embassy in Washington, D.C.",
             "AP’S ASSESSMENT: False. The account that made the post is not affiliated with Mossad and has previously published erroneous claims about Israel. Mossad’s official X account, to which the agency’s website links, has not posted anything since September 2020.",
@@ -16,7 +16,8 @@
             "[This is part of the AP’s effort to address widely shared false and misleading information that is circulating online. Learn more about fact-checking at AP.]"
         ],
         "url": "https://apnews.com/article/fact-check-mossad-air-force-enemy-israel-596187204627",
-        "crawl_date": "2024-02-28 13:06:44.083593"
+        "crawl_date": "2024-02-28 13:06:44.083593",
+        "annotator": "B"
     },
     "APNews_1.html.gz": {
         "body": [
@@ -35,7 +36,8 @@
             "[The Associated Press created this story using technology provided by Data Skrive and data from Sportradar.]"
         ],
         "url": "https://apnews.com/sports/mississippi-rebels-mens-college-basketball-college-basketball-alabama-crimson-tide-603e9ddb8be4469ba16026f955d67093",
-        "crawl_date": "2024-02-28 13:06:44.755968"
+        "crawl_date": "2024-02-28 13:06:44.755968",
+        "annotator": "B"
     },
     "APNews_2.html.gz": {
         "body": [
@@ -53,7 +55,8 @@
             "[AP NFL: https://apnews.com/hub/nfl]"
         ],
         "url": "https://apnews.com/article/kansas-city-chiefs-andy-reid-nfl-combine-ee19f73bb5e56336af9d704317588e0f",
-        "crawl_date": "2024-02-28 13:06:44.795071"
+        "crawl_date": "2024-02-28 13:06:44.795071",
+        "annotator": "B"
     },
     "APNews_3.html.gz": {
         "body": [
@@ -63,7 +66,8 @@
             "[The Associated Press created this story using technology provided by Data Skrive and data from Sportradar.]"
         ],
         "url": "https://apnews.com/sports/college-basketball-mens-college-basketball-illinois-aaeb44ca598744658d879628c820cd2e",
-        "crawl_date": "2024-02-28 13:06:45.295338"
+        "crawl_date": "2024-02-28 13:06:45.295338",
+        "annotator": "B"
     },
     "APNews_4.html.gz": {
         "body": [
@@ -83,7 +87,8 @@
             "[Follow AP’s climate coverage at https://apnews.com/climate-and-environment]"
         ],
         "url": "https://apnews.com/article/eu-farmers-nature-environment-climate-4d6714d00666fef0117a8e2ea5970fd5",
-        "crawl_date": "2024-02-28 13:06:45.341334"
+        "crawl_date": "2024-02-28 13:06:45.341334",
+        "annotator": "B"
     },
     "CNBC_0.html.gz": {
         "body": [
@@ -103,7 +108,8 @@
             "“There were no interesting or obvious catalysts for the move, nor would we expect there to be when it comes to the level of volatility seen on almost any day of the past 2 weeks,” wrote Matthew Graham, chief operating officer at Mortgage News Daily."
         ],
         "url": "https://www.cnbc.com/2024/02/28/7percent-interest-rates-hit-weekly-mortgage-demand-hard.html",
-        "crawl_date": "2024-02-28 13:16:11.247397"
+        "crawl_date": "2024-02-28 13:16:11.247397",
+        "annotator": "B"
     },
     "FoxNews_0.html.gz": {
         "body": [
@@ -135,7 +141,8 @@
             "\"We’ll come together,\" said Gina LaPlaca, a local official in Burlington County. \"The threat from Republicans is too much.\""
         ],
         "url": "https://www.foxnews.com/politics/rep-andy-kim-gains-traction-bid-new-jerseys-senate-seat-primary-victories-3-counties",
-        "crawl_date": "2024-02-29 15:09:25.204289"
+        "crawl_date": "2024-02-29 15:09:25.204289",
+        "annotator": "B"
     },
     "FreeBeacon_0.html.gz": {
         "body": [
@@ -154,7 +161,8 @@
             "Nor is Brown’s book the first foray into politics for Nixon, who took a break from bodice-rippers to help narrate an audiobook of the January 6th report."
         ],
         "url": "https://freebeacon.com/democrats/sherrod-brown-tapped-black-erotica-narrator-to-say-the-n-word-for-his-audiobook/",
-        "crawl_date": "2024-02-29 19:25:41.002126"
+        "crawl_date": "2024-02-29 19:25:41.002126",
+        "annotator": "B"
     },
     "Reuters_0.html.gz": {
         "body": [
@@ -163,6 +171,7 @@
             "[Reporting by Asif Shahzad, Charlotte Greenfield; Editing by YP Rajesh and Toby Chopra]"
         ],
         "url": "https://www.reuters.com/world/asia-pacific/pakistans-imran-khan-backed-party-not-eligible-reserved-parliament-seats-poll-2024-03-04/",
-        "crawl_date": "2024-03-04 13:50:39.528272"
+        "crawl_date": "2024-03-04 13:50:39.528272",
+        "annotator": "B"
     }
 }
