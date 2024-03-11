@@ -16,7 +16,8 @@
             "[This is part of the AP’s effort to address widely shared false and misleading information that is circulating online. Learn more about fact-checking at AP.]"
         ],
         "url": "https://apnews.com/article/fact-check-mossad-air-force-enemy-israel-596187204627",
-        "crawl_date": "2024-02-28 13:06:44.083593"
+        "crawl_date": "2024-02-28 13:06:44.083593",
+        "annotator": "A"
     },
     "APNews_1.html.gz": {
         "body": [
@@ -35,7 +36,8 @@
             "[The Associated Press created this story using technology provided by Data Skrive and data from Sportradar.]"
         ],
         "url": "https://apnews.com/sports/mississippi-rebels-mens-college-basketball-college-basketball-alabama-crimson-tide-603e9ddb8be4469ba16026f955d67093",
-        "crawl_date": "2024-02-28 13:06:44.755968"
+        "crawl_date": "2024-02-28 13:06:44.755968",
+        "annotator": "A"
     },
     "APNews_2.html.gz": {
         "body": [
@@ -53,7 +55,8 @@
             "[AP NFL: https://apnews.com/hub/nfl]"
         ],
         "url": "https://apnews.com/article/kansas-city-chiefs-andy-reid-nfl-combine-ee19f73bb5e56336af9d704317588e0f",
-        "crawl_date": "2024-02-28 13:06:44.795071"
+        "crawl_date": "2024-02-28 13:06:44.795071",
+        "annotator": "A"
     },
     "APNews_3.html.gz": {
         "body": [
@@ -63,7 +66,8 @@
             "[The Associated Press created this story using technology provided by Data Skrive and data from Sportradar.]"
         ],
         "url": "https://apnews.com/sports/college-basketball-mens-college-basketball-illinois-aaeb44ca598744658d879628c820cd2e",
-        "crawl_date": "2024-02-28 13:06:45.295338"
+        "crawl_date": "2024-02-28 13:06:45.295338",
+        "annotator": "A"
     },
     "APNews_4.html.gz": {
         "body": [
@@ -83,7 +87,8 @@
             "[Follow AP’s climate coverage at https://apnews.com/climate-and-environment]"
         ],
         "url": "https://apnews.com/article/eu-farmers-nature-environment-climate-4d6714d00666fef0117a8e2ea5970fd5",
-        "crawl_date": "2024-02-28 13:06:45.341334"
+        "crawl_date": "2024-02-28 13:06:45.341334",
+        "annotator": "A"
     },
     "CNBC_0.html.gz": {
         "body": [
@@ -103,7 +108,8 @@
             "\"There were no interesting or obvious catalysts for the move, nor would we expect there to be when it comes to the level of volatility seen on almost any day of the past 2 weeks,\" wrote Matthew Graham, chief operating officer at Mortgage News Daily."
         ],
         "url": "https://www.cnbc.com/2024/02/28/7percent-interest-rates-hit-weekly-mortgage-demand-hard.html",
-        "crawl_date": "2024-02-28 13:16:11.247397"
+        "crawl_date": "2024-02-28 13:16:11.247397",
+        "annotator": "A"
     },
     "CNBC_1.html.gz": {
         "body": [
@@ -127,7 +133,8 @@
             "\"Like it or lump it, Grab has set the way by showing that a Southeast Asian company can list in America,\" Fernandes said. \"It's not going to be a walk in the park, we'll have to work [for] it, but while we might not be as well known in America, the concept of what we're doing is better understood in that part of the world.\""
         ],
         "url": "https://www.cnbc.com/2024/02/28/airasia-unit-heads-for-nasdaq-listing-after-spac-deal.html",
-        "crawl_date": "2024-02-28 13:16:11.435331"
+        "crawl_date": "2024-02-28 13:16:11.435331",
+        "annotator": "A"
     },
     "CNBC_2.html.gz": {
         "body": [
@@ -153,7 +160,8 @@
             "Ultimately, a data-driven, systematic process led to the creation of the Changemakers list, the first of many more to come."
         ],
         "url": "https://www.cnbc.com/2024/02/28/how-we-chose-inaugural-cnbc-changemakers-list.html",
-        "crawl_date": "2024-02-28 13:16:11.551303"
+        "crawl_date": "2024-02-28 13:16:11.551303",
+        "annotator": "A"
     },
     "CNBC_3.html.gz": {
         "body": [
@@ -173,7 +181,8 @@
             "All these women are trailblazers in their fields, with inspiring stories and unique approaches. The Changemakers serve as a reminder that success is a result of leading in ways that are authentic."
         ],
         "url": "https://www.cnbc.com/2024/02/28/cnbc-changemakers-women-remaking-the-business-world-on-their-terms.html",
-        "crawl_date": "2024-02-28 13:16:11.658580"
+        "crawl_date": "2024-02-28 13:16:11.658580",
+        "annotator": "A"
     },
     "CNBC_4.html.gz": {
         "body": [
@@ -184,7 +193,8 @@
             "[These are the 2024 CNBC Changemakers]"
         ],
         "url": "https://www.cnbc.com/2024/02/28/these-are-the-2024-cnbc-changemakers.html",
-        "crawl_date": "2024-02-28 13:16:11.756690"
+        "crawl_date": "2024-02-28 13:16:11.756690",
+        "annotator": "A"
     },
     "FoxNews_0.html.gz": {
         "body": [
@@ -217,7 +227,8 @@
             "\"We’ll come together,\" said Gina LaPlaca, a local official in Burlington County. \"The threat from Republicans is too much.\""
         ],
         "url": "https://www.foxnews.com/politics/rep-andy-kim-gains-traction-bid-new-jerseys-senate-seat-primary-victories-3-counties",
-        "crawl_date": "2024-02-29 15:09:25.204289"
+        "crawl_date": "2024-02-29 15:09:25.204289",
+        "annotator": "A"
     },
     "FoxNews_1.html.gz": {
         "body": [
@@ -253,7 +264,8 @@
             "[Fox News' Chad Pergram and David Spunt contributed to this report.]"
         ],
         "url": "https://www.foxnews.com/politics/comer-says-impeachment-inquiry-moving-next-phase-hunter-biden-testifying-public-hearing",
-        "crawl_date": "2024-02-29 15:09:25.311329"
+        "crawl_date": "2024-02-29 15:09:25.311329",
+        "annotator": "A"
     },
     "FoxNews_2.html.gz": {
         "body": [
@@ -272,7 +284,8 @@
             "[Fox News Digital's Peter Aiken contributed to this report.]"
         ],
         "url": "https://www.foxnews.com/world/putin-issues-chilling-warning-sending-western-troops-defend-ukraine",
-        "crawl_date": "2024-02-29 15:09:25.403335"
+        "crawl_date": "2024-02-29 15:09:25.403335",
+        "annotator": "A"
     },
     "FoxNews_3.html.gz": {
         "body": [
@@ -293,7 +306,8 @@
             "[This is a developing story and will be updated.]"
         ],
         "url": "https://www.foxnews.com/us/dc-police-officer-involved-shooting-developing",
-        "crawl_date": "2024-02-29 15:09:25.675251"
+        "crawl_date": "2024-02-29 15:09:25.675251",
+        "annotator": "A"
     },
     "FoxNews_4.html.gz": {
         "body": [
@@ -310,7 +324,8 @@
             "[Fox News' Bill Melugin and Adam Shaw contributed to this report]"
         ],
         "url": "https://www.foxnews.com/politics/bidens-border-visit-lands-one-least-trafficked-towns-trump-headed-thick",
-        "crawl_date": "2024-02-29 15:09:25.873477"
+        "crawl_date": "2024-02-29 15:09:25.873477",
+        "annotator": "A"
     },
     "FreeBeacon_0.html.gz": {
         "body": [
@@ -329,7 +344,8 @@
             "Nor is Brown’s book the first foray into politics for Nixon, who took a break from bodice-rippers to help narrate an audiobook of the January 6th report."
         ],
         "url": "https://freebeacon.com/democrats/sherrod-brown-tapped-black-erotica-narrator-to-say-the-n-word-for-his-audiobook/",
-        "crawl_date": "2024-02-29 19:25:41.002126"
+        "crawl_date": "2024-02-29 19:25:41.002126",
+        "annotator": "A"
     },
     "FreeBeacon_1.html.gz": {
         "body": [
@@ -340,7 +356,8 @@
             "Cornyn, the first to publicly announce his intent to run, is one of several Republicans who could take the leadership role left by McConnell, who announced Wednesday he would step down as the GOP leader in November. Minority whip Sen. John Thune (S.D.) and Senate conference chair John Barrasso (Wyo.) are expected to seek the position. Other potential successors include Sen. Steve Daines (Mont.), now the leader of the NRSC, as well as former NRSC chair Sen. Rick Scott (Fla.) and conference vice chair Sen. Shelley Moore Capito (W.Va.), according to the Washington Post."
         ],
         "url": "https://freebeacon.com/latest-news/texas-senator-throws-hat-in-the-ring-to-replace-mcconnell-as-gop-leader/",
-        "crawl_date": "2024-02-29 19:25:41.588255"
+        "crawl_date": "2024-02-29 19:25:41.588255",
+        "annotator": "A"
     },
     "FreeBeacon_2.html.gz": {
         "body": [
@@ -353,7 +370,8 @@
             "In the days following, left-wingers in the United States—including third-party presidential candidates Cornel West and Jill Stein—valorized his actions. Additionally, Hamas praised him, saying in a statement that he would \"remain immortal in the memory of our Palestinian people.\""
         ],
         "url": "https://freebeacon.com/latest-news/irans-khamenei-blames-us-airmans-self-immolation-on-western-culture/",
-        "crawl_date": "2024-02-29 19:25:42.135006"
+        "crawl_date": "2024-02-29 19:25:42.135006",
+        "annotator": "A"
     },
     "FreeBeacon_3.html.gz": {
         "body": [
@@ -363,7 +381,8 @@
             "The brief also accused House speaker Mike Johnson (R., La.) and House Republicans of \"play[ing] politics at the expense of border security.\" Earlier this month, Biden lashed out at Trump for allegedly pushing to block the border security bill. \"All indications are this bill won’t even move forward to the Senate floor,\" Biden said, \"because Donald Trump thinks it’s bad for him politically and [would] rather weaponize this issue than actually solve it.\""
         ],
         "url": "https://freebeacon.com/latest-news/white-house-refers-to-illegal-immigrants-as-newcomers-in-brief/",
-        "crawl_date": "2024-02-29 19:25:42.501633"
+        "crawl_date": "2024-02-29 19:25:42.501633",
+        "annotator": "A"
     },
     "FreeBeacon_4.html.gz": {
         "body": [
@@ -384,7 +403,8 @@
             "\"On the eve of the U.S. presidential election, they simply want to show their citizens and everyone else that they still rule the world.\""
         ],
         "url": "https://freebeacon.com/latest-news/putin-says-western-countries-risk-provoking-nuclear-war/",
-        "crawl_date": "2024-02-29 19:25:43.930945"
+        "crawl_date": "2024-02-29 19:25:43.930945",
+        "annotator": "A"
     },
     "LATimes_0.html.gz": {
         "body": [
@@ -457,7 +477,8 @@
             "Email: sports@latimes.com"
         ],
         "url": "https://www.latimes.com/sports/story/2024-03-02/letters-to-sports-helene-elliott-career",
-        "crawl_date": "2024-03-02 19:06:15.676203"
+        "crawl_date": "2024-03-02 19:06:15.676203",
+        "annotator": "B"
     },
     "LATimes_1.html.gz": {
         "body": [
@@ -506,7 +527,8 @@
             "“My dad was so nonpartisan, and that’s where I got it,” Barger said. “It’s about the issues in front of you and not about the party.”"
         ],
         "url": "https://www.latimes.com/california/story/2024-03-01/kathryn-barger-chris-holden-north-la-county-supervisor-election",
-        "crawl_date": "2024-03-02 19:06:16.171192"
+        "crawl_date": "2024-03-02 19:06:16.171192",
+        "annotator": "B"
     },
     "LATimes_2.html.gz": {
         "body": [
@@ -552,7 +574,8 @@
             "The results were weighted to match census and voter registration benchmarks, so estimates of the margin of error may be imprecise; however, the results for the full registered voter sample have an estimated margin of error of 1.5 percentage points in either direction. The estimated margin of error for the sample of likely Republican primary voters is 3.5 points."
         ],
         "url": "https://www.latimes.com/politics/story/2024-03-01/california-poll-shows-how-third-party-candidates-could-throw-2024-election-to-trump",
-        "crawl_date": "2024-03-02 19:06:15.819509"
+        "crawl_date": "2024-03-02 19:06:15.819509",
+        "annotator": "B"
     },
     "LATimes_3.html.gz": {
         "body": [
@@ -600,7 +623,8 @@
             "Consumer Watchdog, in a surprise to no one, has some strong opinions about Lara’s plans."
         ],
         "url": "https://www.latimes.com/business/story/2024-03-01/consumer-watchdog-insurance-industry-harvey-rosenfield",
-        "crawl_date": "2024-03-02 19:06:15.929193"
+        "crawl_date": "2024-03-02 19:06:15.929193",
+        "annotator": "B"
     },
     "LATimes_4.html.gz": {
         "body": [
@@ -635,7 +659,8 @@
             "“Whether the relationship was healthy, whether they were ready to separate or not, that person is really trying to grapple with what does it feel like to be an individual again,” Black said. “No heartbreak is greater than another.”"
         ],
         "url": "https://www.latimes.com/lifestyle/story/2024-03-01/how-to-help-friend-breakup-advice",
-        "crawl_date": "2024-03-02 19:06:16.034560"
+        "crawl_date": "2024-03-02 19:06:16.034560",
+        "annotator": "B"
     },
     "OccupyDemocrats_0.html.gz": {
         "body": [
@@ -650,7 +675,8 @@
             "None of it helped Trump’s attempts to secure a stay at lower bond amount, nor his future efforts to have gag orders overturned in his other cases, as he sought in the case Engoron judged."
         ],
         "url": "https://occupydemocrats.com/2024/02/28/intimidation-judge-engoron-faces-biological-warfare-threat/",
-        "crawl_date": "2024-03-02 21:43:22.037795"
+        "crawl_date": "2024-03-02 21:43:22.037795",
+        "annotator": "B"
     },
     "OccupyDemocrats_1.html.gz": {
         "body": [
@@ -672,7 +698,8 @@
             "[Editor’s note: This is an opinion column that solely reflects the opinions of the author]"
         ],
         "url": "https://occupydemocrats.com/2024/02/28/privilege-how-steve-bannon-just-managed-to-stay-out-of-prison/",
-        "crawl_date": "2024-03-02 21:43:22.093675"
+        "crawl_date": "2024-03-02 21:43:22.093675",
+        "annotator": "B"
     },
     "OccupyDemocrats_2.html.gz": {
         "body": [
@@ -692,7 +719,8 @@
             "UPDATE: Since this article was written, a New York appellate division judge, Anil Singh, temporarily denied Donald Trump’s request to stay the enforcement of the more than $454 million in penalties described above. Justice Singh did, however, grant a temporary stay of Judge Arthur Engoron’s orders prohibiting Trump from serving in leadership positions in New York corporations and from obtaining loans from New York financial institutions. A full panel of New York 1st Judicial Department Appellate Division justices will determine whether the stay is extended until after the full appeal is heard."
         ],
         "url": "https://occupydemocrats.com/2024/02/28/updated-trump-counter-offer-on-his-ny-fraud-damages-shot-down-by-appeals-judge/",
-        "crawl_date": "2024-03-02 21:43:22.201392"
+        "crawl_date": "2024-03-02 21:43:22.201392",
+        "annotator": "B"
     },
     "OccupyDemocrats_3.html.gz": {
         "body": [
@@ -726,7 +754,8 @@
             "[Editor’s note: This is an opinion column that solely reflects the opinions of the author]"
         ],
         "url": "https://occupydemocrats.com/2024/02/28/futile-exercise-gops-hunter-biden-deposition-goes-nowhere/",
-        "crawl_date": "2024-03-02 21:43:22.304110"
+        "crawl_date": "2024-03-02 21:43:22.304110",
+        "annotator": "B"
     },
     "OccupyDemocrats_4.html.gz": {
         "body": [
@@ -744,7 +773,8 @@
             "Watch below."
         ],
         "url": "https://occupydemocrats.com/2024/02/28/end-of-an-era-mitch-mcconnell-to-ditch-gop-senate-leadership-role/",
-        "crawl_date": "2024-03-02 21:43:22.409822"
+        "crawl_date": "2024-03-02 21:43:22.409822",
+        "annotator": "B"
     },
     "Reuters_0.html.gz": {
         "body": [
@@ -753,7 +783,8 @@
             "[Reporting by Asif Shahzad, Charlotte Greenfield; Editing by YP Rajesh and Toby Chopra]"
         ],
         "url": "https://www.reuters.com/world/asia-pacific/pakistans-imran-khan-backed-party-not-eligible-reserved-parliament-seats-poll-2024-03-04/",
-        "crawl_date": "2024-03-04 13:50:39.528272"
+        "crawl_date": "2024-03-04 13:50:39.528272",
+        "annotator": "A"
     },
     "Reuters_1.html.gz": {
         "body": [
@@ -773,7 +804,8 @@
             "[Reporting by Purvi Agarwal in Bengaluru; Editing by Shilpi Majumdar]"
         ],
         "url": "https://www.reuters.com/markets/tsx-eyes-downbeat-start-ahead-data-packed-week-boc-decision-2024-03-04/",
-        "crawl_date": "2024-03-04 13:50:39.697491"
+        "crawl_date": "2024-03-04 13:50:39.697491",
+        "annotator": "A"
     },
     "Reuters_2.html.gz": {
         "body": [
@@ -781,7 +813,8 @@
             "[Reporting by Rachel Savage Writing by Sofia Christensen Editing by Bate Felix]"
         ],
         "url": "https://www.reuters.com/world/africa/ghana-anti-lgbtq-bill-could-derail-imf-support-if-signed-into-law-2024-03-04/",
-        "crawl_date": "2024-03-04 13:50:39.847946"
+        "crawl_date": "2024-03-04 13:50:39.847946",
+        "annotator": "A"
     },
     "Reuters_3.html.gz": {
         "body": [
@@ -793,7 +826,8 @@
             "[Additional reporting by Luc Cohen in New York; Writing by Susan Heavey; Editing by Doina Chiacu]"
         ],
         "url": "https://www.reuters.com/legal/ex-trump-organization-cfo-weisselberg-plead-guilty-perjury-nyt-2024-03-04/",
-        "crawl_date": "2024-03-04 13:50:40.173741"
+        "crawl_date": "2024-03-04 13:50:40.173741",
+        "annotator": "A"
     },
     "Reuters_4.html.gz": {
         "body": [
@@ -838,7 +872,8 @@
 
         ],
         "url": "https://www.reuters.com/fr/affaires/point-marchs-wall-street-vue-hsitante-avant-une-semaine-riche-en-vnements-2024-03-04/",
-        "crawl_date": "2024-03-04 13:50:40.373876"
+        "crawl_date": "2024-03-04 13:50:40.373876",
+        "annotator": "A"
     },
     "TheGatewayPundit_0.html.gz": {
         "body": [
@@ -854,7 +889,8 @@
             "Hanson’s points are well made. The GOP had better get its act together."
         ],
         "url": "https://www.thegatewaypundit.com/2024/02/victor-davis-hanson-biden-is-melting-down-while/",
-        "crawl_date": "2024-02-29 14:21:43.908059"
+        "crawl_date": "2024-02-29 14:21:43.908059",
+        "annotator": "A"
     },
     "TheGatewayPundit_1.html.gz": {
         "body": [
@@ -876,7 +912,8 @@
             "San Francisco is going to be a ghost town if it continues down this road."
         ],
         "url": "https://www.thegatewaypundit.com/2024/02/bidens-america-macys-closing-150-stores-nationwide-san/",
-        "crawl_date": "2024-02-29 14:21:44.418990"
+        "crawl_date": "2024-02-29 14:21:44.418990",
+        "annotator": "A"
     },
     "TheGatewayPundit_2.html.gz": {
         "body": [
@@ -895,7 +932,8 @@
             "Millions of Trump voters have been saying this for three years. Tucker’s point about the 2024 election hits hard as well."
         ],
         "url": "https://www.thegatewaypundit.com/2024/02/tucker-carlson-2020-election-it-was-100-percent/",
-        "crawl_date": "2024-02-29 14:21:44.829290"
+        "crawl_date": "2024-02-29 14:21:44.829290",
+        "annotator": "A"
     },
     "TheGatewayPundit_3.html.gz": {
         "body": [
@@ -912,7 +950,8 @@
             "Odds are that the only people who tuned in to watch this interview were journalists, hardcore Seth Meyers fans and committed Democrats. Other than that, not too many people are interested in hearing what Biden has to say."
         ],
         "url": "https://www.thegatewaypundit.com/2024/02/bidens-late-night-interview-seth-meyers-was-ratings/",
-        "crawl_date": "2024-02-29 14:21:45.131591"
+        "crawl_date": "2024-02-29 14:21:45.131591",
+        "annotator": "A"
     },
     "TheGatewayPundit_4.html.gz": {
         "body": [
@@ -945,7 +984,8 @@
             "[This article appeared originally on The Western Journal.]"
         ],
         "url": "https://www.thegatewaypundit.com/2024/02/coach-christian-school-banned-refused-game-opponent-trans/",
-        "crawl_date": "2024-02-29 14:21:45.437568"
+        "crawl_date": "2024-02-29 14:21:45.437568",
+        "annotator": "A"
     },
     "TheGuardian_0.html.gz": {
         "body": [
@@ -985,7 +1025,8 @@
             "[If you’re interested in learning more about artificial intelligence, listen to the Guardian’s new six-part series]"
         ],
         "url": "https://www.theguardian.com/lifeandstyle/2024/mar/02/can-ai-chatbot-therapists-do-better-than-the-real-thing",
-        "crawl_date": "2024-03-02 17:09:51.916863"
+        "crawl_date": "2024-03-02 17:09:51.916863",
+        "annotator": "B"
     },
     "TheGuardian_1.html.gz": {
         "body": [
@@ -1007,7 +1048,8 @@
             "“I got indicted for nothing, for something that is nothing,” he told the Black Conservative Federation gala in South Carolina. “A lot of people said that’s why the Black people like me, because they have been hurt so badly and discriminated against, and they actually viewed me as I’m being discriminated against.”"
         ],
         "url": "https://www.theguardian.com/us-news/2024/mar/02/joe-biden-disapproval-rating-new-low",
-        "crawl_date": "2024-03-02 17:09:51.333729"
+        "crawl_date": "2024-03-02 17:09:51.333729",
+        "annotator": "B"
     },
     "TheGuardian_2.html.gz": {
         "body": [
@@ -1029,7 +1071,8 @@
             "The achievements of the great British Channel swimmer were formally recognised in 2022 by the placing of a blue plaque on the Brighton house where she was born."
         ],
         "url": "https://www.theguardian.com/lifeandstyle/2024/mar/02/no-stunt-doubles-actress-kirsten-callaghan-vindication-swim-channel",
-        "crawl_date": "2024-03-02 17:09:51.965264"
+        "crawl_date": "2024-03-02 17:09:51.965264",
+        "annotator": "B"
     },
     "TheGuardian_3.html.gz": {
         "body": [
@@ -1053,7 +1096,8 @@
             "“With the project it was like you were doing something for the real world, not just an experiment at school,” says Christensen."
         ],
         "url": "https://www.theguardian.com/science/2024/mar/02/doing-something-for-the-real-world-how-1000-uk-schoolkids-helped-crack-a-crystals-conundrum",
-        "crawl_date": "2024-03-02 17:09:51.547998"
+        "crawl_date": "2024-03-02 17:09:51.547998",
+        "annotator": "B"
     },
     "TheGuardian_4.html.gz": {
         "body": [
@@ -1062,7 +1106,8 @@
             "Instrumentally, it’s essentially just Leech, his guitar and some vintage recording gear, though Gunn adds washes of synth, and favours have been called in from former Dylan sidekick Tony Garnier on bass, and bouzouki player Dónal Lunny. The songs are allusive and lonesome, supplemented by a pair of instrumentals, including the title track and a piece, Maritime Radio, in which an imaginary weather forecast is just discernible beneath waves of shimmering guitars. You can almost taste the salt on the wind."
         ],
         "url": "https://www.theguardian.com/music/2024/mar/02/oisin-leech-cold-sea-review-you-can-almost-taste-the-salt",
-        "crawl_date": "2024-03-02 17:09:51.667386"
+        "crawl_date": "2024-03-02 17:09:51.667386",
+        "annotator": "B"
     },
     "TheIndependent_0.html.gz": {
         "body": [
@@ -1183,7 +1228,8 @@
             "Young Fathers, Heavy Heavy"
         ],
         "url": "https://www.independent.co.uk/arts-entertainment/music/news/brit-awards-winners-2024-list-b2506015.html",
-        "crawl_date": "2024-03-02 23:30:08.468893"
+        "crawl_date": "2024-03-02 23:30:08.468893",
+        "annotator": "B"
     },
     "TheIndependent_1.html.gz": {
         "body": [
@@ -1196,7 +1242,8 @@
             "Follow the latest updates below:"
         ],
         "url": "https://www.independent.co.uk/arts-entertainment/music/news/brit-awards-2024-performers-music-nominations-live-b2505820.html",
-        "crawl_date": "2024-03-02 23:30:08.553666"
+        "crawl_date": "2024-03-02 23:30:08.553666",
+        "annotator": "B"
     },
     "TheIndependent_2.html.gz": {
         "body": [
@@ -1210,7 +1257,8 @@
             "Mrs Hamilton presented the Song of the Year award to Raye for Escapism, a track which also featured the artist 070 Shake."
         ],
         "url": "https://www.independent.co.uk/news/uk/brit-awards-post-office-itv-horizon-raye-b2506036.html",
-        "crawl_date": "2024-03-02 23:30:08.658892"
+        "crawl_date": "2024-03-02 23:30:08.658892",
+        "annotator": "B"
     },
     "TheIndependent_3.html.gz": {
         "body": [
@@ -1235,7 +1283,8 @@
             "Prescribed burns are fires intentionally set in controlled areas to destroy fire fuels like dried-out grass and leaves. Indigenous communities have used this practice for millennia and have long advocated for the US government to adopt it in fire-vulnerable areas."
         ],
         "url": "https://www.independent.co.uk/climate-change/news/texas-wildfires-map-panhandle-evacuations-b2504055.html",
-        "crawl_date": "2024-03-02 23:30:08.776620"
+        "crawl_date": "2024-03-02 23:30:08.776620",
+        "annotator": "B"
     },
     "TheIndependent_4.html.gz": {
         "body": [
@@ -1250,7 +1299,8 @@
             "Separately in Georgia, Judge Scott McAfee said he would need two weeks to consider whether to remove Fulton County District Attorney Fani Willis from Mr Trump’s election interference case after a romance between the two top prosecutors."
         ],
         "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-rally-greensboro-richmond-documents-trial-live-b2505918.html",
-        "crawl_date": "2024-03-02 23:30:08.879346"
+        "crawl_date": "2024-03-02 23:30:08.879346",
+        "annotator": "B"
     },
     "TheIntercept_0.html.gz": {
         "body": [
@@ -1299,7 +1349,8 @@
             "Heath and the other vets pointed to the change in management in their letter to local officials. They entreated the county to shutter the facility and to prevent the management company from transporting animals to another of its facilities. “When The Dolphin Company purchased Miami Seaquarium, like you, we had high hopes that things were going to change, but they have not,” they wrote. “Because of these violations of Florida law, we urge you to use your power not only to revoke the Dolphin Company’s lease but also to encourage law enforcement to pursue the legal action needed to protect the animals.”"
         ],
         "url": "https://theintercept.com/2024/03/02/miami-seaquarium-animal-cruelty/",
-        "crawl_date": "2024-03-02 23:54:15.773549"
+        "crawl_date": "2024-03-02 23:54:15.773549",
+        "annotator": "B"
     },
     "TheIntercept_1.html.gz": {
         "body": [
@@ -1320,7 +1371,8 @@
             "To the delight of military contractors, his plan worked. All told, the U.S. arms industry should expect a windfall of about $64 billion from the National Security Act, or four times the money it would take to mitigate America’s child care crisis."
         ],
         "url": "https://theintercept.com/2024/03/01/biden-israel-gaza-weapons-child-care/",
-        "crawl_date": "2024-03-02 23:54:15.854777"
+        "crawl_date": "2024-03-02 23:54:15.854777",
+        "annotator": "B"
     },
     "TheIntercept_2.html.gz": {
         "body": [
@@ -1354,7 +1406,8 @@
             "“For me, video is not a talking head on a balcony in a capital,” Amanpour said. “It just isn’t. To me, video is reportage.”"
         ],
         "url": "https://theintercept.com/2024/03/01/cnn-christiane-amanpour-israel-gaza-coverage/",
-        "crawl_date": "2024-03-02 23:54:15.962602"
+        "crawl_date": "2024-03-02 23:54:15.962602",
+        "annotator": "B"
     },
     "TheIntercept_3.html.gz": {
         "body": [
@@ -1363,7 +1416,8 @@
             "[Transcript coming soon.]"
         ],
         "url": "https://theintercept.com/2024/03/01/deconstructed-patrice-lumumba-cia-cold-war/",
-        "crawl_date": "2024-03-02 23:54:16.060111"
+        "crawl_date": "2024-03-02 23:54:16.060111",
+        "annotator": "B"
     },
     "TheIntercept_4.html.gz": {
         "body": [
@@ -1456,7 +1510,8 @@
             "This story has been corrected to remove an errant reference to unnamed experts in a New York Times article; the Times named one expert. A reference to guests at a Times editorial meeting, made due to a translation error, has been removed; the attendees were editors. This story has been corrected to reflect that Adam Sella is the nephew of Anat Schwartz’s partner, not Schwartz."
         ],
         "url": "https://theintercept.com/2024/02/28/new-york-times-anat-schwartz-october-7/",
-        "crawl_date": "2024-03-02 23:54:16.183280"
+        "crawl_date": "2024-03-02 23:54:16.183280",
+        "annotator": "B"
     },
     "TheNation_0.html.gz": {
         "body": [
@@ -1480,7 +1535,8 @@
             "McConnell swore an oath to support and defend the Constitution of the United States against all enemies, foreign and domestic. For reasons of partisanship and personal political advancement, he abandoned that oath. Nothing more needs to be said of him."
         ],
         "url": "https://www.thenation.com/article/politics/mitch-mcconnell-retiring-senate/",
-        "crawl_date": "2024-02-29 15:56:08.498742"
+        "crawl_date": "2024-02-29 15:56:08.498742",
+        "annotator": "A"
     },
     "TheNation_1.html.gz": {
         "body": [
@@ -1506,7 +1562,8 @@
             "In the catalog for “Making Her Mark,” its project is described—in implicit contrast to Nochlin’s accent on the “supremely great”—as a search for “the unexceptional woman artist.” I think that might be misguided. I’m not sure art of any sort can be made in the absence of an impulse to be exceptional—and this exhibition proves it. For some, the arena in which one strives to achieve distinction may be, as it was for Gentileschi, the apex of European society, or it might be a small circle of intimates. As we all know, time has a way of leveling those differences. May the leveling continue."
         ],
         "url": "https://www.thenation.com/article/culture/making-her-mark-baltimore-museum/",
-        "crawl_date": "2024-02-29 15:56:08.733811"
+        "crawl_date": "2024-02-29 15:56:08.733811",
+        "annotator": "A"
     },
     "TheNation_2.html.gz": {
         "body": [
@@ -1520,7 +1577,8 @@
             "Johnson has conducted a frantic round of meetings with Senate leaders and President Joe Biden trying to forestall a partial shutdown by the end of the week. In his most recent White House confab with Biden, Senate majority leader Chuck Schumer, and House minority leader Hakeem Jeffries, Johnson met the Democrats’ pleas to approve Ukraine funding with a renewed push to move forward on border security—even though the Senate-brokered bill on the issue has been denied a floor vote at the behest of Johnson’s chief political retainer, former president Donald Trump. Johnson, in other words, is not merely content with repeating the Beckett-style negotiations over a shutdown on autoplay; he’s going out of his way to draw attention to the greatest, self-inflicted legislative cock-up of the 118th Congress. This really says everything about today’s class of Republican lawmakers: Even as they reckon with preordained policy doom, they’re unable to come up with any fresh material. “It’s such an embarrassment to any concept of responsibility, of following the oath they all took, of running a critical institution,” Ornstein said. “And that they have no shame about it, that just compounds everything.”"
         ],
         "url": "https://www.thenation.com/article/politics/congress-government-shutdown-mike-johnson/",
-        "crawl_date": "2024-02-29 15:56:08.960251"
+        "crawl_date": "2024-02-29 15:56:08.960251",
+        "annotator": "A"
     },
     "TheNation_3.html.gz": {
         "body": [
@@ -1543,7 +1601,8 @@
             "James Zogby, the founder and president of the Arab-American Institute, and a longtime member of the executive committee of the Democratic National Committee, summed up the message from Michigan on Tuesday warning Biden, “Read the room…. Change policy & promote justice for Palestinians—or risk losing.”"
         ],
         "url": "https://www.thenation.com/article/politics/michigan-primary-analysis-biden-gaza/",
-        "crawl_date": "2024-02-29 15:56:09.093939"
+        "crawl_date": "2024-02-29 15:56:09.093939",
+        "annotator": "A"
     },
     "TheNation_4.html.gz": {
         "body": [
@@ -1559,7 +1618,8 @@
             "No wonder Israel is so eager to get rid of UNRWA. And for the same reason, no wonder the defense of UNRWA remains such a critical factor in our continuing work for an immediate cease-fire and Palestinian access to unhindered humanitarian assistance in Gaza."
         ],
         "url": "https://www.thenation.com/article/world/us-israel-funding-unrwa-palestinians/",
-        "crawl_date": "2024-02-29 15:56:10.118024"
+        "crawl_date": "2024-02-29 15:56:10.118024",
+        "annotator": "A"
     },
     "TheNewYorker_0.html.gz": {
         "body": [
@@ -1587,7 +1647,8 @@
             "Either way, with the help of some rather powerful patrons, and a weak judicial-ethics system, Crystal Clanton is on her way to clerk at the highest court in the land. Eric Segall, a law professor at the Georgia State University College of Law, who served in George H. W. Bush’s Justice Department, told me, “Can you imagine what would happen if a Black person who said ‘I hate all white people’ ended up clerking for Sotomayor? You’d never hear the end of it on Fox News. But there’s almost total silence about this.” ♦"
         ],
         "url": "https://www.newyorker.com/news/daily-comment/the-scandal-of-clarence-thomass-new-clerk",
-        "crawl_date": "2024-03-01 14:54:43.386320"
+        "crawl_date": "2024-03-01 14:54:43.386320",
+        "annotator": "A"
     },
     "TheNewYorker_1.html.gz": {
         "body": [
@@ -1636,7 +1697,8 @@
             "[Published in the print edition of the March 11, 2024, issue, with the headline “Role Play.”]"
         ],
         "url": "https://www.newyorker.com/magazine/2024/03/11/rupaul-doesnt-see-how-thats-any-of-your-business",
-        "crawl_date": "2024-03-01 12:57:19.316482"
+        "crawl_date": "2024-03-01 12:57:19.316482",
+        "annotator": "A"
     },
     "TheNewYorker_2.html.gz": {
         "body": [
@@ -1662,7 +1724,8 @@
             "[Published in the print edition of the March 11, 2024, issue, with the headline “Couple Caper.”]"
         ],
         "url": "https://www.newyorker.com/magazine/2024/03/11/ethan-coen-and-tricia-cookes-queer-caper",
-        "crawl_date": "2024-03-01 12:57:20.147309"
+        "crawl_date": "2024-03-01 12:57:20.147309",
+        "annotator": "A"
     },
     "TheNewYorker_3.html.gz": {
         "body": [
@@ -1681,7 +1744,8 @@
             "A familiar gulf opens between student and professor, then, one I have come to regard with more tenderness than annoyance. What my students seek is what I sought: not just a place to publish, of which there remain plenty, but a place to aspire to, the kind of established, vital ecosystem within which a writer can learn, play, feud, create meaning, spark conversation, make sense of herself and her world. Rare by definition, such things grow more elusive by the day. The legacy of the Voice resides in its embodiment of a time when publishing a neighborhood paper that would reflect for its readers, as Ed Fancher put it, “the intellectual and artistic firmament” of their community could matter as much as it turned out to do. ♦"
         ],
         "url": "https://www.newyorker.com/books/under-review/how-the-village-voice-met-its-moment",
-        "crawl_date": "2024-03-01 12:57:22.196603"
+        "crawl_date": "2024-03-01 12:57:22.196603",
+        "annotator": "A"
     },
     "TheNewYorker_4.html.gz": {
         "body": [
@@ -1741,7 +1805,8 @@
             "[Published in the print edition of the March 11, 2024, issue, with the headline “Goings On: Spring Preview.”]"
         ],
         "url": "https://www.newyorker.com/culture/goings-on/spring-culture-previews",
-        "crawl_date": "2024-03-01 12:57:23.645446"
+        "crawl_date": "2024-03-01 12:57:23.645446",
+        "annotator": "A"
     },
     "TheTelegraph_0.html.gz": {
         "body": [
@@ -1791,7 +1856,8 @@
             "A: I cannot comment on what people are choosing to write. My focus is on the team, my family and the people around me. I have their full support, full backing and for me it is about looking ahead and moving forward. You could see what this result meant to the whole team. Better to do your talking on the track."
         ],
         "url": "https://www.telegraph.co.uk/formula-1/2024/03/02/geri-horner-pictured-bahrain-gp-christian-husband-f1/",
-        "crawl_date": "2024-03-02 22:49:38.435792"
+        "crawl_date": "2024-03-02 22:49:38.435792",
+        "annotator": "B"
     },
     "TheTelegraph_1.html.gz": {
         "body": [
@@ -1975,7 +2041,8 @@
             "We’ve also got Telegraph fashion expert Tamara Abraham sharing her verdict on all the best and worst looks."
         ],
         "url": "https://www.telegraph.co.uk/music/artists/brit-awards-live-latest-updates/",
-        "crawl_date": "2024-03-02 22:49:38.562453"
+        "crawl_date": "2024-03-02 22:49:38.562453",
+        "annotator": "B"
     },
     "TheTelegraph_2.html.gz": {
         "body": [
@@ -2101,7 +2168,8 @@
             "Sekou"
         ],
         "url": "https://www.telegraph.co.uk/music/artists/brit-awards-winners-list/",
-        "crawl_date": "2024-03-02 22:49:38.697093"
+        "crawl_date": "2024-03-02 22:49:38.697093",
+        "annotator": "B"
     },
     "TheTelegraph_3.html.gz": {
         "body": [
@@ -2245,7 +2313,8 @@
             "Jhon Duran will not feature as he closes in on his return from a hamstring injury and Diego Carlos, Tyrone Mings, Emi Buendia and Boubacar Kamara remain long-term absentees."
         ],
         "url": "https://www.telegraph.co.uk/football/2024/03/02/luton-town-vs-aston-villa-live-score-premier-league-result/",
-        "crawl_date": "2024-03-02 22:49:38.796826"
+        "crawl_date": "2024-03-02 22:49:38.796826",
+        "annotator": "B"
     },
     "TheTelegraph_4.html.gz": {
         "body": [
@@ -2277,7 +2346,8 @@
             "He said that the way the PSC has been “directly and aggressively” targeting MPs, shows that they are “at best, in the most generous interpretation, facilitating a level of militancy which is not acceptable”."
         ],
         "url": "https://www.telegraph.co.uk/politics/2024/03/02/hate-preachers-to-be-barred-from-uk-entry/",
-        "crawl_date": "2024-03-02 22:49:38.877610"
+        "crawl_date": "2024-03-02 22:49:38.877610",
+        "annotator": "B"
     },
     "WashingtonTimes_0.html.gz": {
         "body": [
@@ -2296,7 +2366,8 @@
             "[• Staff can be reached at 202-636-3000.]"
         ],
         "url": "https://www.washingtontimes.com/news/2024/feb/29/joe-biden-has-sleep-apnea-which-can-be-linked-to-d/?utm_source=RSS_Feed&utm_medium=RSS",
-        "crawl_date": "2024-02-29 19:36:05.269207"
+        "crawl_date": "2024-02-29 19:36:05.269207",
+        "annotator": "A"
     },
     "WashingtonTimes_1.html.gz": {
         "body": [
@@ -2315,7 +2386,8 @@
             "[• Mallory Wilson can be reached at mwilson@washingtontimes.com.]"
         ],
         "url": "https://www.washingtontimes.com/news/2024/feb/29/trump-sets-record-straight-on-bidens-late-night-jo/?utm_source=RSS_Feed&utm_medium=RSS",
-        "crawl_date": "2024-02-29 19:36:05.403137"
+        "crawl_date": "2024-02-29 19:36:05.403137",
+        "annotator": "A"
     },
     "WashingtonTimes_2.html.gz": {
         "body": [
@@ -2340,7 +2412,8 @@
             "[• Stephen Dinan can be reached at sdinan@washingtontimes.com.]"
         ],
         "url": "https://www.washingtontimes.com/news/2024/feb/29/whistleblower-federal-agencys-hq-is-empty-vilsack-/?utm_source=RSS_Feed&utm_medium=RSS",
-        "crawl_date": "2024-02-29 19:36:05.622634"
+        "crawl_date": "2024-02-29 19:36:05.622634",
+        "annotator": "A"
     },
     "WashingtonTimes_3.html.gz": {
         "body": [
@@ -2361,7 +2434,8 @@
             "[• Jeff Mordock can be reached at jmordock@washingtontimes.com.]"
         ],
         "url": "https://www.washingtontimes.com/news/2024/feb/29/us-investigates-chinese-turning-smart-cars-into-sp/?utm_source=RSS_Feed&utm_medium=RSS",
-        "crawl_date": "2024-02-29 19:36:05.960316"
+        "crawl_date": "2024-02-29 19:36:05.960316",
+        "annotator": "A"
     },
     "WashingtonTimes_4.html.gz": {
         "body": [
@@ -2387,7 +2461,8 @@
             "[• Kerry Picket can be reached at kpicket@washingtontimes.com.]"
         ],
         "url": "https://www.washingtontimes.com/news/2024/feb/29/state-and-congressional-lawmakers-push-policy-to-b/?utm_source=RSS_Feed&utm_medium=RSS",
-        "crawl_date": "2024-02-29 19:36:06.242341"
+        "crawl_date": "2024-02-29 19:36:06.242341",
+        "annotator": "A"
     },
     "iNews_0.html.gz": {
         "body": [
@@ -2412,7 +2487,8 @@
             "“Tax policy should be made for the long term – not on the fly in response to a rolling (and changeable) five-year debt forecast.”"
         ],
         "url": "https://inews.co.uk/news/politics/hunt-sunak-scramble-budget-2bn-black-hole-2936592",
-        "crawl_date": "2024-03-02 18:11:36.308514"
+        "crawl_date": "2024-03-02 18:11:36.308514",
+        "annotator": "B"
     },
     "iNews_1.html.gz": {
         "body": [
@@ -2521,7 +2597,8 @@
             "Easter adventure trail 23 March-2 April. nationaltrust.org.uk"
         ],
         "url": "https://inews.co.uk/inews-lifestyle/the-best-national-trust-easter-trails-2916566",
-        "crawl_date": "2024-03-02 18:11:36.373823"
+        "crawl_date": "2024-03-02 18:11:36.373823",
+        "annotator": "B"
     },
     "iNews_2.html.gz": {
         "body": [
@@ -2540,7 +2617,8 @@
             "Irrespective of all this, what I love above everything else is honesty. Candice Brathwaite has kept her followers abreast of her health transformation for a while now, achieved through daily runs on a treadmill and different food choices, which she has documented. I’ve loved watching her journey, as through her honesty one can fully understand what’s really needed when you want to make changes not just to your health, but also to your wellbeing. If we can have more of that, and less of the cloak and dagger, perhaps more people will find that joy. I do hope so."
         ],
         "url": "https://inews.co.uk/opinion/favourite-influencers-secret-surgery-betrayal-2929048",
-        "crawl_date": "2024-03-02 18:11:36.505708"
+        "crawl_date": "2024-03-02 18:11:36.505708",
+        "annotator": "B"
     },
     "iNews_3.html.gz": {
         "body": [
@@ -2595,7 +2673,8 @@
             "[Disciples: The Cult of TB Joshua is a three-part documentary on BBC iPlayer. It is also available on BBC Sounds as the new season of the podcast World of Secrets.]"
         ],
         "url": "https://inews.co.uk/news/world/left-uk-nigerian-cult-isolation-gay-2930255",
-        "crawl_date": "2024-03-02 18:11:36.582324"
+        "crawl_date": "2024-03-02 18:11:36.582324",
+        "annotator": "B"
     },
     "iNews_4.html.gz": {
         "body": [
@@ -2682,6 +2761,7 @@
             "“The system is spectacularly failing a lot of people.”"
         ],
         "url": "https://inews.co.uk/news/health/mouth-cancer-children-no-teeth-nhs-emergency-dentist-2931517",
-        "crawl_date": "2024-03-02 18:11:36.701796"
+        "crawl_date": "2024-03-02 18:11:36.701796",
+        "annotator": "B"
     }
 }
