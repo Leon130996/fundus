@@ -102,5 +102,9 @@
   "WAZ_2024_03_08.html.gz": {
     "url": "https://www.waz.de/staedte/duisburg/article241847490/Erstes-Bild-So-koennte-die-Duisburger-Seilbahn-aussehen.html",
     "crawl_date": "2024-03-08 19:08:06.071698"
+  },
+  "t3n_2024_04_27.html.gz": {
+    "url": "https://t3n.de/news/apple-mai-2024-ipad-pro-air-tablets-1594980/?utm_source=rss&utm_medium=feed&utm_campaign=news",
+    "crawl_date": "2024-04-27 11:34:20.501139"
   }
 }
