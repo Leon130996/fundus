@@ -26,6 +26,7 @@ from .sz import SZParser
 from .tagesschau import TagesschauParser
 from .taz import TazParser
 from .waz import WAZParser
+from .t3n import T3nParser
 
 
 # noinspection PyPep8Naming
@@ -240,3 +241,12 @@ class DE(PublisherEnum):
         ],
         parser=RheinischePostParser,
     )
+
+    t3n = PublisherSpec(
+    name="t3n",
+    domain="https://t3n.de/",
+    sources=[
+        NewsMap("https://t3n.de/news/feed/"),
+    ],
+    parser=T3nParser,
+)
