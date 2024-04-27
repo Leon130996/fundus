@@ -243,10 +243,11 @@ class DE(PublisherEnum):
     )
 
     t3n = PublisherSpec(
-    name="t3n",
-    domain="https://t3n.de/",
-    sources=[
-        NewsMap("https://t3n.de/news/feed/"),
-    ],
-    parser=T3nParser,
-)
+        name="t3n",
+        domain="https://t3n.de/",
+        sources=[
+            Sitemap("https://t3n.de/sitemap_news.xml"),
+            RSSFeed("https://t3n.de/rss.xml"),
+        ], 
+        parser=T3nParser,
+    )

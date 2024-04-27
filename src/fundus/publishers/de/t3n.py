@@ -1,17 +1,10 @@
-# from fundus.parser import ParserProxy, BaseParser
-
-
-# class T3nParser(ParserProxy):
-#     class V1(BaseParser):
-#         pass
-
 import datetime
 from typing import List, Optional
 
 from lxml.cssselect import CSSSelector
 
 from fundus.parser import ArticleBody, BaseParser, ParserProxy, attribute
-from fundus.parser.utility import extract_article_body_with_selector, generic_author_parsing, generic_date_parsing
+from fundus.parser.utility import generic_author_parsing, generic_date_parsing
 
 
 class T3nParser(ParserProxy):
@@ -19,11 +12,8 @@ class T3nParser(ParserProxy):
         _paragraph_selector = CSSSelector("div[class='article-content'] > p")
 
         @attribute
-        def body(self) -> ArticleBody:
-            return extract_article_body_with_selector(
-                self.precomputed.doc,
-                paragraph_selector=self._paragraph_selector,
-            )
+        def body(self) -> Optional[str]:
+            return self.precomputed.meta.get("og:description")
 
         @attribute
         def publishing_date(self) -> Optional[datetime.datetime]:
